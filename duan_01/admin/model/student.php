@@ -5,4 +5,6 @@ class Product
     public $name;
     public $age;
     public $cn;
+    public @email;
+    
 }

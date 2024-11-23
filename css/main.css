@@ -1,0 +1,47 @@
+.demo {
+  width: 100px;
+  height: 100px;
+  border: 1px;
+  background-color: red;
+}
+header {
+  background-color: blue;
+  height: 100px;
+}
+
+header .search {
+  margin-top: 30px;
+  margin-right: 50px;
+}
+header .search input {
+  padding: 5px;
+  border: 0.5px;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+header .search button {
+  padding: 5px;
+  border: 0.5px;
+  border-radius: 10px;
+  margin-right: 10px;
+  background-color: aliceblue;
+}
+header .login button {
+  padding: 5px;
+  border: 0.5px;
+  border-radius: 10px;
+  margin-right: 10px;
+  background-color: aliceblue;
+}
+header .login {
+  margin-top: 30px;
+}
+.category_name {
+  margin-right: 40px;
+}
+
+.category {
+  padding: 10px;
+  padding-bottom: 10px;
+  background-color: aqua;
+}
